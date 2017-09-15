@@ -18,7 +18,7 @@ title: < div >ersity Blog
 description: > # this means to ignore newlines until "baseurl:"
   A blog for diverse people and companies in the tech industry.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://coloradokim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://coloradokim.github.io/diversity-blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: diversity_us
 github_username:  coloradokim
 
